@@ -11,7 +11,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MattiaGallucci&show_icons=true&locale=en" alt="MattiaGallucci" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MattiaGallucci&" alt="MattiaGallucci" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MattiaGallucci&" alt="MattiaGallucci" /></p>-->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattiaGallucci&show_icons=true&locale=en&layout=compact" alt="MattiaGallucci" /></p>
 
 <picture>
