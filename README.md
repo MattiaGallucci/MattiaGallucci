@@ -33,12 +33,5 @@ Hi, I'm **MattiaGallucci**, I am a computer science student specializing in cybe
     <img src="https://www.gitskins.com/api/section/social?username=MattiaGallucci&theme=github-dark&website=https%3A%2F%2Fmattia-gallucci.vercel.app%2F&linkedin=in%2Fmattiagallucci" alt="MattiaGallucci social section" />
   </picture>
 </p>
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent. com/MattiaGallucci/MattiaGallucci/output/github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MattiaGallucci/MattiaGallucci/output/github-snake.svg" />
-        <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    </picture>
-</p>
 
 <!-- Sections: Header, Heatmap, Connect -->
