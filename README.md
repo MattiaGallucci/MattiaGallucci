@@ -1,14 +1,44 @@
-<h1>Hi 👋, I'm Mattia Gallucci</h1>
-<p></p>
+# Mattia Gallucci
 
-<p>
-  Appassionato di IT e Cyber Security.<br><br>
-  📚 <b>Risorse in evidenza:</b><br>
-  🛡️ <a href="https://gist.github.com/MattiaGallucci/ab58c1a3c217e0fdc294654ab6159ec2"><b>Cisco Ethical Hacking - Cheat Sheet Completo</b></a> - <i>Appunti, script e framework per Penetration Testing (Nmap, OSINT, Metasploit, ecc.)</i>
+> Learning velocity and project potential.
+
+## Header
+Hi, I'm **MattiaGallucci**, I am a computer science student specializing in cybersecurity.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=MattiaGallucci&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=MattiaGallucci&theme=neon" alt="MattiaGallucci hero section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=MattiaGallucci&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=MattiaGallucci&theme=neon" alt="MattiaGallucci stack section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=MattiaGallucci&theme=neon&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=MattiaGallucci&theme=neon" alt="MattiaGallucci projects section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <img src="https://www.gitskins.com/showcase/space-shooter.gif" alt="MattiaGallucci stack section" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=MattiaGallucci&theme=neon&website=https%3A%2F%2Fmattia-gallucci.vercel.app%2F&linkedin=in%2Fmattiagallucci&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=MattiaGallucci&theme=github-dark&website=https%3A%2F%2Fmattia-gallucci.vercel.app%2F&linkedin=in%2Fmattiagallucci" alt="MattiaGallucci social section" />
+  </picture>
+</p>
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent. com/MattiaGallucci/MattiaGallucci/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MattiaGallucci/MattiaGallucci/output/github-snake.svg" />
+        <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    </picture>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MattiaGallucci/MattiaGallucci/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MattiaGallucci/MattiaGallucci/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<!-- Sections: Header, Heatmap, Connect -->
